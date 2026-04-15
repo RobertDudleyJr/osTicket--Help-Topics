@@ -49,5 +49,12 @@ Click Add New and fill out the appropriate information. Here's an example.
 </p>
 <p>
 Now you have a list of Help Topics that one can choose when submitting a ticket.
+<img   src="https://static.wixstatic.com/media/695ae6_5945ad89dfe04af1a0eebf92672d5e43~mv2.png/v1/fill/w_600,h_470,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/os-final.png" height="80%" width="80%" alt="Sev-C"/>
+</p>
+<p>
+Check out the results! 
 </p>
 <br />
+</p>
+<br />
+
